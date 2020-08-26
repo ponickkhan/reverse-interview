@@ -1,4 +1,4 @@
-# Reverse interview
+# বিপরীত সাক্ষাত্কার
 
 This is a list of questions which may be interesting to a tech job applicant.
 The points are not ordered and many may not apply to a given position, or work type.
@@ -7,7 +7,7 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 
 If you asked something not listed here, send in a PR.
 
-Translations:
+অনুবাদসমূহ::
 
 - [Arabic](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
 - [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
@@ -24,6 +24,7 @@ Translations:
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [Bengali](https://github.com/ponickkhan/reverse-interview/blob/master/README.md)
 
 ## Expected usage
 
