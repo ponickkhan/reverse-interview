@@ -7,24 +7,24 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 
 If you asked something not listed here, send in a PR.
 
-অনুবাদসমূহ::
+অনুবাদসমূহ:
 
-- [Arabic](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
-- [Bengali](https://github.com/ponickkhan/reverse-interview/blob/master/README.md)
+- [আরবি](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
+- [কাতালান](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
+- চীনা [সরলীকৃত](https://github.com/yifeikong/reverse-interview-zh) / [প্রচলিত](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+- [ইংরেজি](https://github.com/viraptor/reverse-interview/blob/master/README.md)
+- [ফরাসি](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [জার্মান](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
+- [হিন্দি](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [ইন্দোনেশিয়ান](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
+- [ইটালিয়ান](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
+- [কোরিয়ান](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [পর্তুগিজ (ব্রাজিলিয়ান)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+- [রাশিয়ান](https://github.com/kix/reverse-interview/blob/master/README.md)
+- [স্পেনীয়](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [তুর্কি](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
+- [ভিয়েতনামী](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [বাংলা](https://github.com/ponickkhan/reverse-interview/blob/master/README.md)
 
 ## Expected usage
 
