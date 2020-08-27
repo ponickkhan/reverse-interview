@@ -26,7 +26,7 @@ If you asked something not listed here, send in a PR.
 - [ভিয়েতনামী](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 - [বাংলা](https://github.com/ponickkhan/reverse-interview/blob/master/README.md)
 
-## Expected usage
+## প্রত্যাশিত ব্যবহার
 
 - Check which questions are interesting for you specifically
 - Check which answers you can find yourself online
@@ -37,7 +37,7 @@ Definitely don't try to ask everything from the list. (Respect the interviewer's
 Remember that things tend to be fluid, re-organizations happens often.
 Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
 
-# The Role
+# ভূমিকা
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
 - What are the tasks I would do on a usual day?
@@ -55,7 +55,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
 - How can I develop in my new role / what opportunities are offered?
 
-# Tech
+# প্রযুক্তি
 
 - What are the usual stacks used at the company?
 - How do you use source control?
@@ -77,7 +77,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you manage internal / external artifacts?
 - How do you manage dependencies?
 
-# The Team
+# টীম
 
 - How is the work organised?
 - How does the intra/inter-team communication typically work?
@@ -99,7 +99,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you share knowledge?
 - How big are the teams?
 
-# Your Potential Coworkers
+# আপনার সম্ভাব্য সহকর্মীরা
 
 - Who do developers tend to learn from?
 - What do you like best about working there?
@@ -107,7 +107,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What would you change if you could?
 - How long has the longest team member been there?
 
-# The Company
+# কোম্পানি
 
 - Why is the company hiring? (product growth / new product / fluctuation / ...)
 - Is there a conference/travel budget and what are the rules to use it?
@@ -127,14 +127,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
 
-# Social issues
+# সামাজিক বিষয়
 
 - What's the status of / view on diverse hiring?
 - What do you think are the gaps in the company culture? (and what is the company culture?)
 - What does work-life balance mean here?
 - Does the company have a stance regarding climate change?
 
-# Conflict
+# মতবিরোধ
 
 - How are differences of opinions resolved?
 - What happens after pushback? ("this can't be done in the projected time")
@@ -143,7 +143,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - When there is a gap between expectations from management and performance of an engineer or team, what happens?
 - Could you tell me a story about a toxic situation and how the company dealt with it?
 
-# The Business
+# ব্যাবসা
 
 - Are you profitable?
 - If not, how long is your runway?
@@ -154,8 +154,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What are the big challenges you see coming up?
 - What have you identified as your competitive advantage?
 
-# Remote Work
-
+# রিমোট ওয়ার্ক
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
 - How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
@@ -164,18 +163,18 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
 
-# Building Layout
+# বিল্ডিং লেআউট
 
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
 
-# Catch all
+# সব ধরুন
 
 - What's the best and what's the worst aspect of working in this role / team / company?
 - What got you to choose to work for the company initially?
 - What keeps you at the company?
 
-# Compensation
+# ক্ষতিপূরণ
 
 - If you have a bonus scheme, then how are bonuses determined?
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
@@ -183,8 +182,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there medical benefits and if so, when do they start?
 - Do you pay for relocation?
 
-# Time Off
-
+# বন্ধ
 - How much Paid Time Off (PTO) is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
 - Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
@@ -193,14 +191,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the policy on unpaid leave?
 - What is the policy for sabbatical leave?
 
-# Other resources
+# অন্যান্য উৎস
 
 Find more inspiration for questions in:
 
   - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
 
-# License
+# লাইসেন্স
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
