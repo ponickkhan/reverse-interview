@@ -30,7 +30,7 @@ If you asked something not listed here, send in a PR.
 
 - Check which questions are interesting for you specifically
 - Check which answers you can find yourself online
-- Otherwise ask
+- অন্যথায় জিজ্ঞাসা করুন
 
 Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
 
