@@ -182,7 +182,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there medical benefits and if so, when do they start?
 - Do you pay for relocation?
 
-# বন্ধ
+# ছুটি
 - How much Paid Time Off (PTO) is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
 - Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
