@@ -41,7 +41,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
 - What are the tasks I would do on a usual day?
-- Are there any specific goals for me?
+- আমার জন্য কোন নির্দিষ্ট লক্ষ্য আছে?
 - What's the junior/senior balance of the team? (and are there plans to change it)
 - What does the onboarding look like?
 - How much freedom for decision making do individual developers have?
